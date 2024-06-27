@@ -138,8 +138,3 @@ Os testes estão localizados no arquivo `src/test/java/com/apitests/JsonPlacehol
 
 Um relatório de testes em formato HTML é gerado após a execução dos testes. O arquivo `extent.html` será criado na raiz do projeto. Abra este arquivo em um navegador para visualizar o relatório detalhado dos testes.
 
-## Boas Práticas de Qualidade
-
-As boas práticas de qualidade são integradas ao relatório de testes utilizando ExtentReports e são validadas pelo SonarQube. Métricas como cobertura de testes, complexidade do código, duplicação de código e violação de regras são monitoradas para garantir a alta qualidade do código.
-
-Para acessar essas métricas, acesse o painel do SonarQube e navegue até o seu projeto.
