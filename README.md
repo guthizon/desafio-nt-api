@@ -1,6 +1,3 @@
-Claro! Aqui está um exemplo de README para seu projeto de testes de API com SonarQube.
-
-```markdown
 # Projeto de Testes de API com JsonPlaceholder
 
 Este projeto contém testes de API para o serviço [JsonPlaceholder](https://jsonplaceholder.typicode.com/), utilizando Java, RestAssured, JUnit 5, ExtentReports para relatórios e SonarQube para análise de qualidade de código.
