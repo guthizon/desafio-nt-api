@@ -112,7 +112,7 @@ mvn clean verify sonar:sonar -Dsonar.projectKey=your_project_key -Dsonar.login=y
 
 ## Descrição dos Testes
 
-Os testes estão localizados no arquivo `src/test/java/com/example/jsonplaceholder/JsonPlaceholderTests.java` e cobrem os seguintes cenários:
+Os testes estão localizados no arquivo `src/test/java/com/apitests/JsonPlaceholderTests.java` e cobrem os seguintes cenários:
 
 ### Testes GET
 
